@@ -14,6 +14,20 @@ There is a high chance this no longer works after NQ updated the log format and 
 ## The Outcome
 ![Discord Notifications](https://i.imgur.com/pxaawNq.png)
 
+## Legion UAV Station Positions
+Jago 1 - ::pos{0,0,-93708848.1616,12766591.4826,-3372069.6728}
+Jago 2 - ::pos{0,0,-94568515.7148,12765544.4045,-3386274.6079}
+Jago 3 - ::pos{0,0,-93700214.8287,12765887.4865,-3882307.2761}
+Jago 4 - ::pos{0,0,-94567596.4356,12765506.3136,-3884255.2912}
+Jago 5 - ::pos{0,0,-93886823.7288,13199902.2124,-3634641.6017}
+Jago 6 - ::pos{0,0,-93886101.9370,12331582.6445,-3634541.5741}
+Jago 7 - ::pos{0,0,-94382554.6404,13199644.4940,-3634417.8040}
+Jago 8 - ::pos{0,0,-94383682.6291,12332073.6884,-3634513.6924}
+Jago 9 - ::pos{0,0,-94135582.5023,13013884.1947,-3200504.1309}
+Jago 10 - ::pos{0,0,-94134219.4246,13015365.3444,-4067574.5769}
+Jago 11 - ::pos{0,0,-94134033.1623,12517767.2678,-3200166.7660}
+Jago 12 - ::pos{0,0,-94134461.4501,12516933.6539,-4068280.0953}
+
 ## Credits
 Deadrank for writing the script and for sharing many memories of hunting haulers out of Jago.
-
+Devian for calling me a "hacker" and continuing to try and cause me grief wherever possible.
