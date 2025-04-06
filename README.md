@@ -29,5 +29,5 @@ There is a high chance this no longer works after NQ updated the log format and 
 12. Jago 12 - ::pos{0,0,-94134461.4501,12516933.6539,-4068280.0953}
 
 ## Credits
-Deadrank for writing the script and for sharing many memories of hunting haulers out of Jago.
-Devian for calling me a "hacker" and continuing to try and cause me grief wherever possible.
+- Deadrank for writing the script and for sharing many memories of hunting haulers out of Jago.
+- Devian for calling me a "hacker" and continuing to try and cause me grief wherever possible.
