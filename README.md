@@ -11,6 +11,9 @@ There is a high chance this no longer works after NQ updated the log format and 
 4. Update the .py script to include the token, channel id and set a memorable location
 5. Run the script, turn on a radar and see if it posts them to Discord!
 
+## The Outcome
+![Discord Notifications](https://i.imgur.com/pxaawNq.png)
+
 ## Credits
 Deadrank for writing the script and for sharing many memories of hunting haulers out of Jago.
 
